@@ -1,8 +1,6 @@
 
 
-//
-// MovieName movieNameFromJson(String str) => MovieName.fromJson(json.decode(str));
-//
+
 // String movieNameToJson(MovieName data) => json.encode(data.toJson());
 //
 // class MovieName {
