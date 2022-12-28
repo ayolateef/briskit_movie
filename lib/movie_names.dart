@@ -1,4 +1,4 @@
-// import 'package:meta/meta.dart';
+
 
 //
 // MovieName movieNameFromJson(String str) => MovieName.fromJson(json.decode(str));
